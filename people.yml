@@ -46,6 +46,13 @@
     - label: Sim Lab
       url: "https://sim-lab.weebly.com/"
 
+- name: Barış Sevi
+  group: Collaborators
+  role: Asst. Prof., MEF University
+  links:
+    - label: Personality & Health Lab
+      url: "https://sites.google.com/view/personalityandhealthlab?pli=1&authuser=0"
+
 # Example of a student entry (remove the # signs to use it):
 # - name: Student Name
 #   group: Graduate Students
