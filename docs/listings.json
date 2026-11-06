@@ -2,18 +2,5 @@
   {
     "listing": "/people.html",
     "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/2026-09-29-welcome.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2026-09-29-recruiting.html",
-      "/news/2026-09-29-welcome.html"
-    ]
   }
 ]
