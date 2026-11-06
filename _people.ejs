@@ -1,0 +1,29 @@
+```{=html}
+<%
+// Sections appear in this order; a section with no members is hidden.
+const groups = ["Principal Investigator", "Graduate Students", "Undergraduate Researchers", "Research Assistants", "Alumni", "Collaborators"];
+%>
+<% for (const g of groups) {
+const members = items.filter(p => p.group === g);
+if (members.length === 0) continue;
+const isCollab = g === 'Collaborators'; %>
+<section class="people-group <%= g === 'Principal Investigator' ? 'is-pi' : '' %> <%= isCollab ? 'is-collab' : '' %>">
+<h2><%= g %></h2>
+<div class="people-grid">
+<% for (const p of members) { %>
+<div class="person" <%= metadataAttrs(p) %>>
+<% if (!isCollab && p.image) { %><img class="person-photo" src="<%- p.image %>" alt="<%= p.name %>"><% } %>
+<div class="person-body">
+<h3 class="person-name"><%= p.name %></h3>
+<% if (p.role) { %><p class="person-role"><%= p.role %></p><% } %>
+<% if (p.bio) { %><p class="person-bio"><%= p.bio %></p><% } %>
+<% if (p.links) { %>
+<p class="person-links"><% for (const l of p.links) { %><a href="<%- l.url %>"><%= l.label %></a><% } %></p>
+<% } %>
+</div>
+</div>
+<% } %>
+</div>
+</section>
+<% } %>
+```

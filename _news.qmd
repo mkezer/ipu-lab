@@ -1,0 +1,15 @@
+---
+title: "News"
+listing:
+  id: all-news
+  contents: news/*.qmd
+  sort: "date desc"
+  template: _news.ejs
+  date-format: "MMM D, YYYY"
+  feed: true
+---
+
+[Announcements, new papers, and lab updates.]{.page-intro}
+
+::: {#all-news}
+:::

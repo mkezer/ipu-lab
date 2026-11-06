@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -12 570 180" role="img" aria-labelledby="t">
+<title id="t">IPU Lab</title>
+<rect x="0" y="40" width="28" height="80" rx="2" fill="#1B2140"/>
+<path d="M48 40 H116 A40 40 0 0 1 116 120 H76 V160 H48 Z M76 64 H116 A16 16 0 0 1 116 96 H76 Z" fill="#1B2140" fill-rule="evenodd"/>
+<path d="M176 40 H204 V80 A12 12 0 0 0 228 80 V40 H256 V80 A40 40 0 0 1 176 80 Z" fill="#1B2140"/>
+<circle cx="14" cy="10" r="20" fill="#E8692C"/>
+<circle cx="13.09" cy="6.36" r="1.85" fill="#1B2140"/>
+<circle cx="24.90" cy="6.36" r="1.85" fill="#1B2140"/>
+<path d="M13.55 13.64 Q19.00 16.90 24.45 13.64" fill="none" stroke="#1B2140" stroke-width="1.45" stroke-linecap="round"/>
+<circle cx="286" cy="100" r="20" fill="#3B6FE0"/>
+<circle cx="286.91" cy="96.36" r="1.85" fill="#1B2140"/>
+<circle cx="275.10" cy="96.36" r="1.85" fill="#1B2140"/>
+<path d="M286.45 103.64 Q281.00 106.90 275.55 103.64" fill="none" stroke="#1B2140" stroke-width="1.45" stroke-linecap="round"/>
+<rect x="336" y="0" width="18" height="120" fill="#1B2140"/>
+<path d="M374 80 A40 40 0 1 0 454 80 A40 40 0 1 0 374 80 Z M392 80 A22 22 0 1 0 436 80 A22 22 0 1 0 392 80 Z" fill="#1B2140" fill-rule="evenodd"/>
+<rect x="436" y="40" width="18" height="80" fill="#1B2140"/>
+<rect x="474" y="0" width="18" height="120" fill="#1B2140"/>
+<path d="M474 80 A40 40 0 1 0 554 80 A40 40 0 1 0 474 80 Z M492 80 A22 22 0 1 0 536 80 A22 22 0 1 0 492 80 Z" fill="#1B2140" fill-rule="evenodd"/>
+</svg>

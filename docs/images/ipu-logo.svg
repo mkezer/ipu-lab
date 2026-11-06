@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 160" role="img" aria-labelledby="ipu-title">
+<title id="ipu-title">IPU Lab</title>
+<circle cx="14" cy="14" r="14" fill="#E8692C"/>
+<circle cx="13.4" cy="11.5" r="1.6" fill="#1B2140"/>
+<circle cx="21.6" cy="11.5" r="1.6" fill="#1B2140"/>
+<path d="M13.7 17 Q17.5 19.3 21.3 17" fill="none" stroke="#1B2140" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="0" y="40" width="28" height="80" rx="2" fill="#1B2140"/>
+<path d="M48 40 H116 A40 40 0 0 1 116 120 H76 V160 H48 Z M76 64 H116 A16 16 0 0 1 116 96 H76 Z" fill="#1B2140" fill-rule="evenodd"/>
+<path d="M176 40 H204 V80 A12 12 0 0 0 228 80 V40 H256 V80 A40 40 0 0 1 176 80 Z" fill="#1B2140"/>
+<circle cx="282" cy="106" r="14" fill="#3B6FE0"/>
+<circle cx="274.4" cy="103.5" r="1.6" fill="#1B2140"/>
+<circle cx="282.6" cy="103.5" r="1.6" fill="#1B2140"/>
+<path d="M274.7 109 Q278.5 111.3 282.3 109" fill="none" stroke="#1B2140" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

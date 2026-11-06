@@ -1,0 +1,15 @@
+---
+title: "Publications"
+bibliography: publications.bib
+csl: apa.csl
+nocite: |
+  @*
+---
+
+[Selected publications from the lab. For a complete and up-to-date list, see [Google Scholar](https://scholar.google.com/).]{.page-intro}
+
+<!-- Every entry in publications.bib is listed automatically, newest first.
+     To add a paper, paste its BibTeX (from Google Scholar, Zotero, or the journal) into publications.bib. -->
+
+::: {#refs}
+:::

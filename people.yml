@@ -1,0 +1,57 @@
+# Lab members. To add someone, copy a block, fill it in, and put their photo
+# (square, ~600x600) in images/people/. `group` must be one of:
+# Principal Investigator, Graduate Students, Undergraduate Researchers,
+# Research Assistants, Alumni, Collaborators
+# Collaborators are shown as compact cards without photos.
+
+- name: Murat Kezer
+  group: Principal Investigator
+  # image: images/people/mkezer.jpg     
+  bio: >
+    Murat is an assistant professor in the Department of Psychology at Bilkent University.
+    His research broadly examines how we perceive and understand others. His research uses dyadic designs, experimental methods, computational techniques, and large language models.
+
+  links:
+    - label: Email
+      url: "mailto:mkezer@bilkent.edu.tr"   
+    - label: Google Scholar
+      url: "https://scholar.google.com/citations?user=AwitZwkAAAAJ&hl=en"
+    - label: GitHub
+      url: "https://github.com/mkezer"
+
+- name: İdil Zehra Keşir
+  group: Undergraduate Researchers
+  role: Senior Thesis Student
+  # image: images/people/student-name.jpg
+  # bio: One sentence about their thesis project.
+
+- name: Sara D. Hodges
+  group: Collaborators
+  role: Professor of Psychology, University of Oregon
+  links:
+    - label: Social Cognition Lab
+      url: "https://socialcognitionlab.uoregon.edu/"
+
+- name: Zeynep Cemalcılar
+  group: Collaborators
+  role: Professor of Psychology, Koç University
+  links:
+    - label: Sim Lab
+      url: "https://sim-lab.weebly.com/"
+
+- name: Lemi Baruh
+  group: Collaborators
+  role: Senior Lecturer in Communication, University of Queensland
+  links:
+    - label: Sim Lab
+      url: "https://sim-lab.weebly.com/"
+
+# Example of a student entry (remove the # signs to use it):
+# - name: Student Name
+#   group: Graduate Students
+#   role: PhD Student
+#   image: images/people/student-name.jpg
+#   bio: One or two sentences about their interests.
+#   links:
+#     - label: Email
+#       url: "mailto:student@bilkent.edu.tr"

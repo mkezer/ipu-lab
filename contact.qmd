@@ -1,0 +1,29 @@
+---
+title: "Contact"
+---
+
+[We're always happy to hear from prospective students, collaborators, and anyone curious about our work.]{.page-intro}
+
+::: {.contact-grid}
+
+::: {.contact-card}
+
+### Email
+
+Murat Kezer\
+[mkezer@bilkent.edu.tr](mailto:mkezer@bilkent.edu.tr)
+
+:::
+
+::: {.contact-card}
+
+### Address
+
+{{< var lab.name >}}\
+{{< var lab.department >}}\
+{{< var lab.university >}}\
+06800 Bilkent, {{< var lab.city >}}
+
+:::
+
+:::

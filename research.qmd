@@ -1,0 +1,31 @@
+---
+pagetitle: "Research"
+---
+
+::: {.research-theme}
+
+## Interpersonal Perception
+
+How do we infer others' traits and mental states such as their thoughts and feelings? We study the accuracy and biases of these inferences, what shapes them (e.g., the cues available, characteristics of perceivers and targets, communication context), the social-cognitive mechanisms behind them, and their consequences.
+
+:::
+
+::: {.research-theme}
+
+## Interpersonal Understanding
+
+What happens when we try to see the world through someone else’s eyes? We study when and why people take others’ perspectives, how well they succeed, and how doing so shapes downstream outcomes such as moral judgments and prosocial behavior. We are also interested in the limits of perspective taking and in ways to help people understand one another better.
+
+:::
+
+::: {.note-box}
+
+**Communication modalities & AI.** Much of social life now happens over video calls, text, and increasingly in conversation with large language models. We examine how these channels change the cues available about others, how AI systems judge people and how people judge AI, and what this means for empathy, fairness, moral judgment, and trust.
+
+:::
+
+::: {.note-box}
+
+**Methods.** We run studies both in person and online, using experimental, dyadic, and round-robin designs. Our work draws on the empathic accuracy paradigm and on frameworks such as the lens model and the Realistic Accuracy Model. We analyze our data with the Social Relations Model, the Social Accuracy Model, response surface analysis, and multilevel modeling, and we use computational methods, including large language models, as research tools. We are committed to open science: preregistration, open materials, and open data where possible.
+
+:::

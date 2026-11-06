@@ -1,0 +1,9 @@
+---
+title: "Welcome to the IPU Lab"
+date: 2026-09-29
+description: "The Interpersonal Perception & Understanding Lab is now open at Bilkent University."
+---
+
+The Interpersonal Perception & Understanding (IPU) Lab has launched in the Department of Psychology at Bilkent University. We study how people see and understand one another, and how screens and AI are changing that.
+
+Take a look at our [research](../research.qmd), and stay tuned for updates.

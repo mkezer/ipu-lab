@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves the site from this folder
+  render:
+    - "*.qmd"
+    - "news/*.qmd"
+  resources:
+    - .nojekyll             # tells GitHub Pages to serve the files as-is
+
+website:
+  # Lab name appears here (navbar + browser tab) and in _variables.yml (page text).
+  title: "IPU Lab"
+  favicon: images/ipu-favicon.png
+  description: "Interpersonal Perception & Understanding Lab, Department of Psychology, Bilkent University"
+  site-url: https://mkezer.github.io/ipu-lab/
+  navbar:
+    logo: images/ipu-lab-logo.svg
+    logo-alt: "IPU Lab"
+    title: false
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: People
+        href: people.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 Interpersonal Perception & Understanding Lab · Department of Psychology, Bilkent University"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false

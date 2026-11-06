@@ -1,0 +1,8 @@
+# Change the lab's name and details here; pages pick them up with {{< var ... >}}.
+lab:
+  name: "Interpersonal Perception & Understanding Lab"
+  short: "IPU Lab"
+  department: "Department of Psychology"
+  university: "Bilkent University"
+  city: "Ankara, Türkiye"
+  email: "mkezer@bilkent.edu.tr"  

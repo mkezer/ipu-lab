@@ -1,0 +1,16 @@
+---
+title: "People"
+listing:
+  id: people
+  contents: people.yml
+  template: _people.ejs
+  sort: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+---
+
+[The {{< var lab.short >}} is a new and growing group at Bilkent University.]{.page-intro}
+
+::: {#people}
+:::
